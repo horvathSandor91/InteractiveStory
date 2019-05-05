@@ -1,3 +1,3 @@
 # InteractiveStory
-An android Story app
+A story app
 https://teamtreehouse.com/sandorhorvath
